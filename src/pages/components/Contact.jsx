@@ -106,7 +106,7 @@ const Contact = () => {
         </svg>
 
         {/* Pulse animation effect */}
-        <span className="absolute inline-flex h-full w-full rounded-full bg-[#25D366] opacity-75 group-hover:animate-ping"></span>
+        <span className="absolute inline-flex h-full w-full rounded-full  opacity-75 group-hover:animate-ping"></span>
       </a>
     </section>
   );
