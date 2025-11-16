@@ -55,7 +55,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="tel:0530061228"
+                href="tel:966530061228"
                 className="inline-flex items-center justify-center gap-3 border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white font-semibold py-4 px-8 rounded-xl transition duration-300 hover:scale-105"
               >
                 <Phone className="w-5 h-5" />
