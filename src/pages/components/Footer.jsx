@@ -41,7 +41,7 @@ const Footer = () => {
                 <MessageCircle className="w-5 h-5" />
               </a>
               <a
-                href="tel:0530061228"
+                href="tel:966530061228"
                 className="bg-blue-600 hover:bg-blue-700 p-3 rounded-lg transition duration-300"
               >
                 <Phone className="w-5 h-5" />
