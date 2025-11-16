@@ -106,7 +106,7 @@ const Hero = () => {
                   {t.hero.emergency247}
                 </div>
                 <div className="text-xs text-blue-600 font-semibold mt-1">
-                  0530061228
+                  966530061228{" "}
                 </div>
               </div>
 
